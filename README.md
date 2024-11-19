@@ -1,3 +1,5 @@
+<img src="http://pngimg.com/uploads/windows_logos/windows_logos_PNG37.png" width="64"></img>
+
 # Programmi moderni per Windows 7
 ITA: Programmi moderni resi compatibili su windows 7
 ENG: Modern programs made compatible on windows 7
