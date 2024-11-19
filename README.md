@@ -4,4 +4,9 @@ ENG: Modern programs made compatible on windows 7
 
 Modifiche principalmente basate su versioni di Electron modificate --> Repository ufficiale di Electron: [Electron](https://github.com/electron/electron)
 
+Attualmente nelle release:
+
+--> GoofCord (client modificato per Discord)
+--> FreeTube (Alternativva di Youtube senza Pubblicità nè traccianti)
+
 
