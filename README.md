@@ -10,6 +10,7 @@ Modifiche principalmente basate su versioni di Electron modificate --> Repositor
 - [GoofCord](https://github.com/MrDick004/Windows-7-Apps/releases/tag/GoofCord) --> Basato sulle versioni modificate di Electron 32 di [Adeii](https://github.com/adeii/supermium-portable/releases/tag/E29)
 - [FreeTube](https://github.com/MrDick004/Windows-7-Apps/releases/tag/FreeTube) --> Basato sulle versioni modificate di Electron 28 di [Supermium-Electron](https://github.com/win32ss/supermium-electron)
 - [YouTube Music](https://github.com/MrDick004/Windows-7-Apps/releases/tag/YoutubeMusic) --> Basato sulle versioni modificate di Electron 28
+- [Kodi](https://github.com/MrDick004/Windows-7-Apps/releases/tag/KodiWin7) --> Versione 22 basata sulla versione di [Adeii](https://github.com/adeii/Qt6Win7/releases/tag/Test653)
 
 
 
